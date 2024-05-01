@@ -1,0 +1,2 @@
+Nếu muốn nhanh các bạn có thể kéo thả các View vào trong Layout trước và chúng ta chỉnh sửa ở file xml như sau, với Relative Layout như những bài trước mình nó có thể được điều chỉnh bằng cách kéo thả dễ dàng, nhưng mình vẫn khuyên các bạn nên hand code để chúng ta nhớ và nâng cao kỹ năng thao tác.
+Sau khi tạo xong chúng ta sẽ được giao diện như sau. Xin chào bạn Xin chào bạn.
